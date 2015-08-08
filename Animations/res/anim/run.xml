@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list 
+    xmlns:apk="http://schemas.android.com/apk/res/android" 
+    apk:oneshot="false">
+    <item apk:drawable="@drawable/bao1" apk:duration="200" />
+    <item apk:drawable="@drawable/bao2" apk:duration="200" />
+    <item apk:drawable="@drawable/bao3" apk:duration="200" />
+    <item apk:drawable="@drawable/bao4" apk:duration="200" />
+    <item apk:drawable="@drawable/bao5" apk:duration="200" />
+    <item apk:drawable="@drawable/bao6" apk:duration="200" />
+    <item apk:drawable="@drawable/bao7" apk:duration="200" />
+    <item apk:drawable="@drawable/bao8" apk:duration="200" />
+</animation-list>
